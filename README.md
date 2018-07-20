@@ -1,3 +1,3 @@
 # JavaScript-projects
 
-Just a collection of some JS projects.
+Collection of some minor projects
