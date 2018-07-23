@@ -1,5 +1,5 @@
 /*
-My Fizzbuzz answer in JS
+My fizzBuzz answer in JS
 */
 function fizzBuzz(){
     for (let num = 1; num <= 100; num++) {
